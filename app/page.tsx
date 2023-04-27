@@ -5,6 +5,7 @@ import Particles from "./components/particles";
 const navigation = [
 	{ name: "Blog", href: "/blog" },
 	{ name: "Projects", href: "/projects" },
+	// { name: "Trade Journal", href: "/journal" }, // TODO: Add trade journal section
 	{ name: "Contact", href: "/contact" },
 ];
 
